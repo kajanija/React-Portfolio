@@ -11,3 +11,6 @@ Ovo je moja prva web aplikacija napraljena u Reactu
 
 da bi dodali svoje podatke u portfolio potrebno je da izmjenite podatek u **src/assets/data.js**
 
+### Ostalo
+
+Ideja za dizajn preuzeta sa Google-a, HTML, CSS i React kod napisao **Nedim Kajanija**
