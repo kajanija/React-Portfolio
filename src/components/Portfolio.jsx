@@ -5,7 +5,7 @@ function Portfolio({portfolio = []}) {
     <div className="portfolio margin_bottom">
         {portfolio.map((item,index) => (
             <div className="projekat">
-                <a href={`"${item.url}"`}>
+                <a href={item.url}>
                     <div className="slika_projekta">
                         <img src={item.slika} alt="" />
                         <div className="kategorija">
