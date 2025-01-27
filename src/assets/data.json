@@ -1,0 +1,117 @@
+{
+    "zaglavlje":{
+        "ime":"Ime i Prezime",
+        "zanimanje":"Web Developer",
+        "slika":"https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BsYXlcLzBiN2Y0ZTliLWY1OWMtNDAyNC05ZjA2LWIzZGMxMjg1MGFiNy0xOTIwLTEwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4Mjh9fX0="
+    },
+    "biografija":[
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    ],
+    "kontakti":[
+        {
+            "ikona":"email",
+            "tekst":"info@example.com"
+        },
+        {
+            "ikona":"phone",
+            "tekst":"+387 60 30 000"
+        },
+        {
+            "ikona":"language",
+            "tekst":"website.com"
+        },
+        {
+            "ikona":"home",
+            "tekst":"Maršala Tita BB, 71000 Sarajevo, Bosna i Hercegovina"
+        }
+    ],
+    "linkovi":[
+        {
+            "url":"#",
+            "ikona":"box",
+            "tekst":"Facebook"
+        },
+        {
+            "url":"#",
+            "ikona":"box",
+            "tekst":"Instagram"
+        }
+    ],
+    "edukacija":[
+        {
+            "naziv":"Naziv ustanove",
+            "pozicija":"Smjer obrazovanja",
+            "vrijeme":"2014 - 2017",
+            "tekst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+        },
+        {
+            "naziv":"Naziv ustanove",
+            "pozicija":"Smjer obrazovanja",
+            "vrijeme":"2017 - 2020",
+            "tekst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+        }
+    ],
+    "iskustvo":[
+        {
+            "naziv":"Firma D.O.O",
+            "pozicija":"Pozicija",
+            "vrijeme":"2023 - sada",
+            "tekst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+        },
+        {
+            "naziv":"Firma D.O.O",
+            "pozicija":"Pozicija",
+            "vrijeme":"2023 - sada",
+            "tekst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+        }
+    ],
+    "prof_vjestine":[
+        {
+            "naziv":"HTML",
+            "broj":"100"
+        },
+        {
+            "naziv":"CSS",
+            "broj":"90"
+        },
+        {
+            "naziv":"JavaScrip",
+            "broj":"80"
+        },
+        {
+            "naziv":"PHP",
+            "broj":"80"
+        },
+        {
+            "naziv":"MySql",
+            "broj":"60"
+        },
+        {
+            "naziv":"React",
+            "broj":"10"
+        }
+    ],
+    "licne_vjestine":[
+        {
+            "naziv":"Komunikacija",
+            "ocjena": 5
+        },
+        {
+            "naziv":"Rad u timu",
+            "ocjena": 4
+        },
+        {
+            "naziv":"Samostalan rad",
+            "ocjena": 4
+        }
+    ],
+    "portfolio":[
+        {
+            "url":"#",
+            "kategorija":"HTM, CSS, JS",
+            "slika":"https://images.ctfassets.net/lzny33ho1g45/5VGvMMdX169JCk60IJCRDA/358a2d3f62c6028d978efc382cb83ad5/image10.png?w=1400"
+        }
+    ]
+
+}
